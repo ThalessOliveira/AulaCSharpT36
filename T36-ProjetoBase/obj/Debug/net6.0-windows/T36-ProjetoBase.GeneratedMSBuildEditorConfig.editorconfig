@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = T36_ProjetoBase
-build_property.ProjectDir = C:\Users\thales.soliveira1\source\repos\T36-ProjetoBase\
+build_property.ProjectDir = C:\Users\thales.soliveira1\Documents\GitHub\AulaCSharpT36\T36-ProjetoBase\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A6TRQRPAOFLEuZ6o6cge3qDuj2Ln3WlReWkILSSAktDjwG5VLdOTwMtbpStY95cN2qJ5Fl7UedHcj5pDBg1rZQ==",
+  "dgSpecHash": "IofzSTED0jf81tnxMAc8hGS4Wwj7nI+GPcsQXe9Xl2HeYQMtgbNL36DhuDrGZNcGVvOPXwL0N17/+EpsDxwkjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thales.soliveira1\\source\\repos\\T36-ProjetoBase\\T36-ProjetoBase.csproj",
+  "projectFilePath": "C:\\Users\\thales.soliveira1\\Documents\\GitHub\\AulaCSharpT36\\T36-ProjetoBase\\T36-ProjetoBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thales.soliveira1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\thales.soliveira1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",

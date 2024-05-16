@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thales.soliveira1\\source\\repos\\T36-ProjetoBase\\T36-ProjetoBase.csproj": {}
+    "C:\\Users\\thales.soliveira1\\Documents\\GitHub\\AulaCSharpT36\\T36-ProjetoBase\\T36-ProjetoBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thales.soliveira1\\source\\repos\\T36-ProjetoBase\\T36-ProjetoBase.csproj": {
+    "C:\\Users\\thales.soliveira1\\Documents\\GitHub\\AulaCSharpT36\\T36-ProjetoBase\\T36-ProjetoBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thales.soliveira1\\source\\repos\\T36-ProjetoBase\\T36-ProjetoBase.csproj",
+        "projectUniqueName": "C:\\Users\\thales.soliveira1\\Documents\\GitHub\\AulaCSharpT36\\T36-ProjetoBase\\T36-ProjetoBase.csproj",
         "projectName": "T36-ProjetoBase",
-        "projectPath": "C:\\Users\\thales.soliveira1\\source\\repos\\T36-ProjetoBase\\T36-ProjetoBase.csproj",
+        "projectPath": "C:\\Users\\thales.soliveira1\\Documents\\GitHub\\AulaCSharpT36\\T36-ProjetoBase\\T36-ProjetoBase.csproj",
         "packagesPath": "C:\\Users\\thales.soliveira1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thales.soliveira1\\source\\repos\\T36-ProjetoBase\\obj\\",
+        "outputPath": "C:\\Users\\thales.soliveira1\\Documents\\GitHub\\AulaCSharpT36\\T36-ProjetoBase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thales.soliveira1\\AppData\\Roaming\\NuGet\\NuGet.Config",
